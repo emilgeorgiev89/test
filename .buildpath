@@ -2,6 +2,6 @@
 <buildpath>
 	<buildpathentry kind="con" path="com.zend.php.phpunit.CONTAINER"/>
 	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
-	<buildpathentry kind="src" path=""/>
+	<buildpathentry excluding="vendor/**/test*/**|vendor/**/Test*/**" kind="src" path=""/>
 	<buildpathentry kind="con" path="org.zend.php.framework.CONTAINER"/>
 </buildpath>
