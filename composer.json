@@ -1,8 +1,5 @@
 {
-  "name" : "test",
-  "require" : {
-    "apache/log4php" : "=2.3.0"
-  },
+  "name" : "test"
   "repositories" : [ {
     "type" : "composer",
     "url" : "https://packagist.org/"
